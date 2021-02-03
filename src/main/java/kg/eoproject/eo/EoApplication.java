@@ -10,4 +10,5 @@ public class EoApplication {
 		SpringApplication.run(EoApplication.class, args);
 	}
 
+
 }
